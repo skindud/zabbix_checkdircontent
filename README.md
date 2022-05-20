@@ -42,14 +42,14 @@ Installation
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/skindud/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/skindud/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/skindud/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/skindud/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/skindud/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/skindud/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/skindud/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/skindud/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/skindud/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/skindud/repo_name/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+[contributors-shield]: https://img.shields.io/github/contributors/skindud/zabbix_checkdircontent.svg?style=for-the-badge
+[contributors-url]: https://github.com/skindud/zabbix_checkdircontent/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/skindud/zabbix_checkdircontent.svg?style=for-the-badge
+[forks-url]: https://github.com/skindud/zabbix_checkdircontent/network/members
+[stars-shield]: https://img.shields.io/github/stars/skindud/zabbix_checkdircontent.svg?style=for-the-badge
+[stars-url]: https://github.com/skindud/zabbix_checkdircontent/stargazers
+[issues-shield]: https://img.shields.io/github/issues/skindud/zabbix_checkdircontent.svg?style=for-the-badge
+[issues-url]: https://github.com/skindud/zabbix_checkdircontent/issues
+[license-shield]: https://img.shields.io/github/license/skindud/zabbix_checkdircontent.svg?style=for-the-badge
+[license-url]: https://github.com/skindud/zabbix_checkdircontent/blob/master/LICENSE.txt
+
