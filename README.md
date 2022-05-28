@@ -1,3 +1,5 @@
+# Zabbix template Check Dir Content
+
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -14,14 +16,11 @@
 
 [![GitHub Super-Linter](https://github.com/skindud/useful/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
-Zabbix template Check Dir Content
-==================
-
 Description
 -----------------
 - two way checking: file/dir structure and the same things with additional file size/time
 - description
-simple installation - based on /proc/mdstat and zabbix regexp item without Low Level Discovery;
+simple installation - based on /proc/mdstat and zabbix regular expression item without Low Level Discovery;
 - not use any additional files/actions on monitored server(s), only zabbix agent is needed;
 - correctly worked on every linux OS even if linux don't have raid.
 - any raid numbers are available;
