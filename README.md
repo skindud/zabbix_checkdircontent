@@ -16,8 +16,8 @@
 
 [![GitHub Super-Linter](https://github.com/skindud/useful/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
-Description
------------------
+## Description
+
 - two way checking: file/dir structure and the same things with additional file size/time
 - description
 simple installation - based on /proc/mdstat and zabbix regular expression item without Low Level Discovery;
@@ -27,13 +27,11 @@ simple installation - based on /proc/mdstat and zabbix regular expression item w
 - show the problem with raid without detalization;
 - checked status of raids once an hour
 
-TO DO list
-------
+## TO DO list
 
 - try to make universal template with a number of checking folders by adding {$MACRO} variables
 
-Installation
-----------------
+## Installation
 
 - add dir_check_files.conf to /etc/zabbix/zabbix_agentd.d/ and restart zabbix;
 - install tree utility on observed server (yum install tree) for 1st way of checking;
